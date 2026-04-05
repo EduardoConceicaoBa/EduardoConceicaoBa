@@ -18,26 +18,24 @@ Seja bem-vindo ao meu perfil! Atualmente, dedico minha jornada de aprendizado a 
 ### 🛠️ Tecnologias e Conceitos em Estudo
 
 <div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Database_Theory-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="Database" />
-  
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL/Database" />
+  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Automação" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
+  <br>
 
----
-
-### 📊 Estatísticas de Aprendizado
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoConceicaoBa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Eduardo" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoConceicaoBa&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 ---
+
+
 
 ### 📫 Vamos nos conectar?
 
