@@ -32,11 +32,11 @@ Seja bem-vindo ao meu perfil! Atualmente, dedico minha jornada de aprendizado a 
 
 ### 📊 Estatísticas de Aprendizado
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoConceicaoBa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoConceicaoBa&layout=compact&langs_count=7&theme=dark" />
-</div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoConceicaoBa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Eduardo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoConceicaoBa&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
+</div>
 ---
 
 ### 📫 Vamos nos conectar?
