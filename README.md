@@ -1,48 +1,46 @@
-<h1 align="left">Hey There👋</h1>
+# Olá, eu sou o Eduardo Conceição! 👋
 
-###
+### 🚀 Estudante de Programação | Python, Automação & Estrutura de Dados
 
-<p align="left">Eu sou o Eduardo</p>
+Seja bem-vindo ao meu perfil! Atualmente, dedico minha jornada de aprendizado a entender como a tecnologia pode resolver problemas reais. Estou construindo minha base técnica com foco em transformar lógica em soluções automatizadas, organizadas e bem estruturadas.
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 📚 No que estou focando agora?
 
-###
+* 🐍 **Python & POO:** Dominando a linguagem e os conceitos de Programação Orientada a Objetos.
+* 🤖 **Automação:** Explorando scripts para otimizar tarefas e processos repetitivos.
+* 🗄️ **Teoria de Banco de Dados:** Estudando modelagem de dados, relacionamentos e a base do SQL.
+* 🏗️ **Lógica Aplicada:** Desenvolvendo projetos práticos para fixar cada novo conceito aprendido.
 
-<p align="left">Sou estudante de programação com foco em Python, atualmente fortalecendo minha base em lógica de programação, Programação Orientada a Objetos (POO) e resolução de problemas reais através de projetos práticos.<br><br>Busco evoluir constantemente e construir soluções simples, bem estruturadas e funcionais.</p>
+---
 
-###
-
-<h2 align="left">Language and Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-###
+### 🛠️ Tecnologias e Conceitos em Estudo
 
 <div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Database_Theory-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="Database" />
+  
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-###
+---
 
-<div align="left">
+### 📊 Estatísticas de Aprendizado
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoConceicaoBa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoConceicaoBa&layout=compact&langs_count=7&theme=dark" />
 </div>
 
-###
+---
 
-<div align="left">
-</div>
+### 📫 Vamos nos conectar?
 
-###
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardo-conceição-de-barros-aa3527396/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-conceição-de-barros-aa3527396)
 
+> "A automação é o esforço de tornar o trabalho mais humano, deixando as máquinas fazerem o repetitivo."
