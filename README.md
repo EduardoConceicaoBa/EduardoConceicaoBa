@@ -323,7 +323,7 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
 </a>
 
-<a href="eduardo09conceicaodebarros@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox">
 <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
 </a>
 
