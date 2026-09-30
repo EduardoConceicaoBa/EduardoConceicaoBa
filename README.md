@@ -1,31 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1117,100:00e5ff&height=220&section=header&text=EDUARDO%20%2F%2F%20DEVELOPER%20SYSTEM&fontSize=34&fontColor=00e5ff&animation=twinkling&fontAlignY=35&desc=Python%20%7C%20Automation%20%7C%20Software%20Development&descAlignY=55&descSize=16"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Initializing+Developer+System...;Python+Developer+in+Progress;Automation+%7C+Software+%7C+Problem+Solving;Building+projects+instead+of+just+watching+tutorials.;Learning.+Building.+Breaking.+Improving." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1117,100:00e5ff&height=220&section=header&text=EDUARDO%20%2F%2F%20DEVELOPER&fontSize=38&fontColor=00e5ff&animation=twinkling&fontAlignY=35&desc=PYTHON%20%7C%20AUTOMATION%20%7C%20SOFTWARE&descAlignY=58&descSize=16"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VISITS&color=00e5ff&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Initializing+Developer+System...;Python+Developer+in+Progress;Automation+%7C+Software+%7C+Problem+Solving;Learning+by+building+real+projects.;Building.+Debugging.+Improving." alt="Typing animation"/>
+
+<br><br>
+
+<a href="https://github.com/EduardoConceicaoBa">
+<img src="https://img.shields.io/badge/GitHub-EduardoConceicaoBa-050505?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/eduardo-conceicao-de-barros-/">
+<img src="https://img.shields.io/badge/LinkedIn-Eduardo-050505?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=EduardoConceicaoBa&label=PROFILE%20VISITS&color=00e5ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-# `> SYSTEM.INIT`
+## `> SYSTEM.INIT`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                  DEVELOPER OPERATING SYSTEM                  ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  USER        : Eduardo                                      ║
-║  AGE         : 17                                           ║
-║  ROLE        : Student / Developer                          ║
-║  PRIMARY     : Python                                       ║
-║  FOCUS       : Automation & Software Development             ║
-║  STATUS      : ONLINE                                       ║
-║  MODE        : BUILDING                                     ║
+║  👤 USER        : Eduardo                                    ║
+║  🎂 AGE         : 17                                         ║
+║  💻 ROLE        : Student / Developer                        ║
+║  🐍 PRIMARY     : Python                                     ║
+║  ⚙️  FOCUS       : Automation & Software Development         ║
+║  🟢 STATUS      : ONLINE                                     ║
+║  🚀 MODE        : BUILDING                                   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -34,28 +44,24 @@
 
 # `> ABOUT_ME`
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/terminal.gif">
+### 👋 Olá, eu sou o Eduardo!
 
-Olá! Eu sou o **Eduardo**, tenho 17 anos e atualmente estou estudando programação e desenvolvendo projetos para transformar conhecimento em experiência prática.
+Tenho **17 anos** e atualmente estudo programação, com foco principalmente em **Python**, automação e desenvolvimento de projetos.
 
-Meu foco principal atualmente é **Python**, explorando desenvolvimento de software, automação e resolução de problemas.
+Gosto de aprender colocando a mão no código: transformar uma ideia em projeto, encontrar problemas, pesquisar soluções, refatorar e evoluir.
 
-Gosto de aprender através de projetos reais, testar ideias e entender como as coisas funcionam por trás do código.
+### 🧠 Atualmente explorando
 
-### Atualmente estou focado em:
+| Área              | Foco                              |
+| ----------------- | --------------------------------- |
+| 🐍 **Python**     | Fundamentos, OOP e projetos       |
+| ⚙️ **Automação**  | Scripts e processos automatizados |
+| 🧩 **Software**   | Organização e arquitetura         |
+| 🔌 **APIs**       | Integrações e aplicações          |
+| 🗄️ **Dados**     | Análise e automação               |
+| 🐙 **Git/GitHub** | Versionamento e portfólio         |
 
-* 🐍 Python
-* ⚙️ Automação
-* 🧠 Lógica e resolução de problemas
-* 🛠️ Desenvolvimento de projetos
-* 🔧 Git & GitHub
-* 📊 Dados e automação
-* 💻 Boas práticas de programação
-* 🚀 Construção de portfólio
-
-> `Learning by building.`
-
-<br clear="right"/>
+> 💡 **Minha ideia:** aprender menos através de teoria isolada e mais através de projetos reais.
 
 ---
 
@@ -63,15 +69,23 @@ Gosto de aprender através de projetos reais, testar ideias e entender como as c
 
 <div align="center">
 
-### LANGUAGES
+### 🐍 PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,cpp&theme=dark"/>
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00e5ff" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=00e5ff" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=00e5ff" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=00e5ff" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=cplusplus&logoColor=00e5ff" alt="C++"/>
 
 <br><br>
 
-### TOOLS
+### 🛠️ DEVELOPMENT TOOLS
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,arduino&theme=dark"/>
+<img src="https://img.shields.io/badge/VS%20Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00e5ff" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00e5ff" alt="Linux"/>
+<img src="https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=00e5ff" alt="Arduino"/>
 
 </div>
 
@@ -79,41 +93,42 @@ Gosto de aprender através de projetos reais, testar ideias e entender como as c
 
 # `> PYTHON_CORE`
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/Automation-050505?style=for-the-badge&logo=robotframework&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/OOP-050505?style=for-the-badge&logo=python&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff"/>
-
-</div>
-
 ```python
-class Developer:
+class Eduardo:
 
     def __init__(self):
-        self.name = "Eduardo"
         self.age = 17
-        self.primary_language = "Python"
+        self.main_language = "Python"
         self.status = "Learning & Building"
 
+    @property
     def focus(self):
         return [
-            "Python",
             "Automation",
             "Software Development",
             "Problem Solving",
-            "Real Projects"
+            "APIs",
+            "Data"
         ]
 
     def mission(self):
-        return "Build. Learn. Improve."
+        return "Build real things."
 ```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-CORE-050505?style=for-the-badge&logo=python&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Automation-ACTIVE-050505?style=for-the-badge&logo=robotframework&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Git-LEARNING-050505?style=for-the-badge&logo=git&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/APIs-EXPLORING-050505?style=for-the-badge&logo=fastapi&logoColor=00e5ff"/>
+
+</div>
 
 ---
 
 # `> PROJECTS`
+
+> 🚧 **This section will evolve together with my portfolio.**
 
 <div align="center">
 
@@ -122,36 +137,36 @@ class Developer:
 
 <td width="50%" valign="top">
 
-<h3>🤖 Automation Lab</h3>
+### 🤖 Automation Lab
 
-Projetos de automação desenvolvidos com Python para transformar tarefas repetitivas em processos mais eficientes.
+Projetos em Python focados em automatizar tarefas, testar ideias e transformar processos manuais em soluções programáveis.
 
-```text
-STATUS : BUILDING
-STACK  : Python
-FOCUS  : Automation
-```
+**Status:** 🟢 Building
+**Stack:** 🐍 Python
+**Focus:** ⚙️ Automation
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/VIEW-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
+<br>
+
+<a href="https://github.com/EduardoConceicaoBa?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-00e5ff?style=for-the-badge&logo=github&logoColor=050505" alt="Repositories"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🐍 Python Projects</h3>
+### 🐍 Python Projects
 
-Projetos criados durante minha evolução em Python, explorando lógica, estruturas, orientação a objetos e organização de código.
+Projetos desenvolvidos durante minha evolução em Python, explorando lógica, OOP, organização de código e boas práticas.
 
-```text
-STATUS : ACTIVE
-STACK  : Python
-FOCUS  : Development
-```
+**Status:** 🟢 Active
+**Stack:** 🐍 Python
+**Focus:** 💻 Development
 
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
+<br>
+
+<a href="https://github.com/EduardoConceicaoBa?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-00e5ff?style=for-the-badge&logo=github&logoColor=050505" alt="Explore"/>
 </a>
 
 </td>
@@ -162,36 +177,36 @@ FOCUS  : Development
 
 <td width="50%" valign="top">
 
-<h3>📊 Data Projects</h3>
+### 📊 Data Projects
 
-Projetos experimentais envolvendo análise de dados, automação e visualização.
+Projetos envolvendo Python, análise de dados, automação e visualização.
 
-```text
-STATUS : LEARNING
-STACK  : Python
-FOCUS  : Data
-```
+**Status:** 🟡 Learning
+**Stack:** 🐍 Python
+**Focus:** 📊 Data
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/EXPLORE-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
+<br>
+
+<a href="https://github.com/EduardoConceicaoBa?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-00e5ff?style=for-the-badge&logo=github&logoColor=050505" alt="Explore"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🧪 Experiments</h3>
+### 🧪 Experiments
 
-Espaço para testes, estudos e experimentos com novas tecnologias e ideias.
+Espaço para pequenos experimentos, estudos e testes de novas tecnologias.
 
-```text
-STATUS : EXPERIMENTAL
-STACK  : MULTI
-FOCUS  : LEARNING
-```
+**Status:** 🔬 Experimental
+**Stack:** 💻 Multiple
+**Focus:** 🧠 Learning
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/EXPLORE-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
+<br>
+
+<a href="https://github.com/EduardoConceicaoBa?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-00e5ff?style=for-the-badge&logo=github&logoColor=050505" alt="Explore"/>
 </a>
 
 </td>
@@ -209,55 +224,63 @@ FOCUS  : LEARNING
 ┌──(eduardo㉿developer)-[~/current-mission]
 └─$ ./status.sh
 
-[✓] Restart programming routine
-[✓] Strengthen Python fundamentals
-[✓] Build real projects
-[✓] Organize GitHub
-[ ] Improve software architecture
-[ ] Build automation systems
-[ ] Work with APIs
-[ ] Learn databases
-[ ] Improve data analysis
-[ ] Build portfolio projects
-[ ] Contribute to open source
+╭──────────────────────────────────────────────╮
+│              CURRENT OBJECTIVES              │
+├──────────────────────────────────────────────┤
+│                                              │
+│  [✓] Return to consistent programming       │
+│  [✓] Strengthen Python fundamentals         │
+│  [✓] Build real projects                    │
+│  [✓] Reorganize GitHub                      │
+│                                              │
+│  [→] Improve software architecture          │
+│  [→] Build automation systems               │
+│  [→] Work with APIs                         │
+│  [→] Learn databases                        │
+│  [→] Improve data analysis                  │
+│  [→] Build portfolio projects               │
+│                                              │
+╰──────────────────────────────────────────────╯
 
-SYSTEM MESSAGE:
-> Progress is measured in projects, not tutorials.
+SYSTEM MESSAGE
+> Learn → Build → Debug → Refactor → Repeat
 ```
 
 ---
 
 # `> DEVELOPMENT_PROTOCOL`
 
+<div align="center">
+
 ```text
-                    ┌──────────────┐
-                    │    LEARN     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    BUILD     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    BREAK     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    DEBUG     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   IMPROVE    │
-                    └──────┬───────┘
-                           │
-                           └──────────────► LEARN
+             ┌───────────────┐
+             │   🧠 LEARN    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   🔨 BUILD    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   💥 BREAK    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   🐛 DEBUG    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │  ♻️ REFACTOR  │
+             └───────┬───────┘
+                     │
+                     └──────────► 🧠 LEARN
 ```
 
-Meu objetivo é construir projetos que demonstrem **capacidade prática**, e não apenas conhecimento teórico.
+</div>
 
 ---
 
@@ -265,17 +288,13 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=EduardoConceicaoBa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoConceicaoBa&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=c9d1d9" alt="Top Languages"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&background=050505&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
+<img src="https://streak-stats.demolab.com?user=EduardoConceicaoBa&theme=github-dark-blue&hide_border=true&background=050505&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" alt="GitHub Streak"/>
 
 </div>
 
@@ -285,7 +304,7 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=Developer%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoConceicaoBa&bg_color=050505&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -295,7 +314,7 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=EduardoConceicaoBa&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -305,7 +324,7 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/EduardoConceicaoBa/EduardoConceicaoBa/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -316,15 +335,11 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 <div align="center">
 
 <a href="https://github.com/EduardoConceicaoBa">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/GitHub-EduardoConceicaoBa-050505?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/eduardo-conceicao-de-barros-/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
-</a>
-
-<a href="https://mail.google.com/mail/u/0/#inbox">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/LinkedIn-Eduardo-050505?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -335,14 +350,14 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 
 ```text
 ╔══════════════════════════════════════════════════════╗
-║                  SYSTEM STATUS                      ║
+║                    SYSTEM STATUS                    ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║  DEVELOPER     : EDUARDO                            ║
-║  AGE           : 17                                 ║
-║  PRIMARY STACK : PYTHON                             ║
-║  STATUS        : ONLINE                             ║
-║  MODE          : BUILDING                           ║
+║  👤 DEVELOPER     : EDUARDO                          ║
+║  🎂 AGE           : 17                               ║
+║  🐍 MAIN STACK    : PYTHON                           ║
+║  🟢 STATUS        : ONLINE                           ║
+║  ⚙️  MODE          : BUILDING                         ║
 ║                                                      ║
 ║  "The system is always evolving."                   ║
 ║                                                      ║
@@ -351,10 +366,10 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile.;Explore.+Build.+Learn.;See+you+in+the+next+commit."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile.;Explore.+Build.+Learn.;See+you+in+the+next+commit." alt="Footer animation"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0b1117,100:050505&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0b1117,100:050505&height=100&section=footer" alt="Footer"/>
 
 </div>
