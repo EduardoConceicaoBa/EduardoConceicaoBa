@@ -315,15 +315,15 @@ Meu objetivo é construir projetos que demonstrem **capacidade prática**, e nã
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/EduardoConceicaoBa">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00e5ff"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/eduardo-conceicao-de-barros-/">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="eduardo09conceicaodebarros@gmail.com">
 <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
 </a>
 
