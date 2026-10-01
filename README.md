@@ -1,231 +1,191 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1117,100:00e5ff&height=180&section=header&text=🚀%20EDUARDO%20%2F%2F%20DEVELOPER%20SYSTEM&fontSize=30&fontColor=00e5ff&fontAlignY=38&animation=fadeIn&desc=SYSTEM.INIT%20%7C%20DEVELOPER%20ENVIRONMENT%20ONLINE&descAlignY=60&descSize=14&descColor=8be9fd"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+ONLINE+%5D;%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+LOADING+PYTHON+ENVIRONMENT...;%3E+LOADING+WEB+TECHNOLOGIES...;%3E+ACCESS+GRANTED+%E2%80%94+WELCOME+TO+MY+GITHUB" alt="System Initialization" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=🚀+SYSTEM.INIT;🤖+PYTHON+DEVELOPER+IN+PROGRESS;⚙️+AUTOMATION+%7C+SOFTWARE+%7C+TECHNOLOGY;🧠+LEARNING.+BUILDING.+EVOLVING.;⚡+WELCOME+TO+MY+DEVELOPER+SYSTEM." alt="Typing Animation"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-00FF88?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AGE-17-8A2BE2?style=for-the-badge" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/FOCUS-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AGE-17-8A2BE2?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/BRAZIL-🇧🇷-009739?style=for-the-badge"/>
+# 👨‍💻 Eduardo | Developer in Progress
+
+### `Python • Automation • Web • Software Development`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+projects+to+build+my+future.;Learning+Python+%7C+Automation+%7C+Software+Development;Turning+ideas+into+code.;Always+learning.+Always+building." alt="Typing Animation" />
 
 </div>
 
 ---
 
-## 🚀 SYSTEM.INIT
+## 🧠 Sobre Mim
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                  DEVELOPER SYSTEM ONLINE                    ║
+║                     DEVELOPER PROFILE                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  USER       → Eduardo                                        ║
-║  AGE        → 17                                             ║
-║  STATUS     → Student / Developer                            ║
-║  PRIMARY    → Python                                         ║
-║  FOCUS      → Software • Automation • Technology             ║
-║                                                              ║
-║  SYSTEM     → ONLINE                                         ║
+║  👤 Nome        : Eduardo                                    ║
+║  🎂 Idade       : 17 anos                                    ║
+║  🎓 Formação    : Estudante de Tecnologia                    ║
+║  🧠 Atualmente   : Estudando Python                           ║
+║  ⚡ Interesse    : Automação • Software • IA • Web            ║
+║  🚀 Objetivo     : Evoluir como desenvolvedor                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
----
+Sou estudante e desenvolvedor em formação, atualmente focado principalmente em **Python** e na construção de projetos práticos.
 
-## 🤖 ABOUT.ME
+Tenho experiência e conhecimentos em diferentes tecnologias, incluindo **Python, JavaScript, HTML, CSS e C++**, e estou constantemente buscando transformar o conhecimento adquirido em projetos reais.
 
-Olá! Eu sou **Eduardo**, estudante de tecnologia e desenvolvedor em formação.
-
-Atualmente, meu principal foco é **Python**, mas também estudo e desenvolvo projetos utilizando **HTML, CSS, JavaScript e C++**.
-
-Gosto de aprender colocando a mão no código, criando projetos e transformando ideias em aplicações reais.
-
-### 🧠 Atualmente estou focado em:
-
-* 🐍 Python
-* ⚙️ Automação
-* 💻 Desenvolvimento de Software
-* 🌐 Desenvolvimento Web
-* 🧩 Lógica de programação
-* 🔧 Git & GitHub
-* 🚀 Construção de projetos para portfólio
-
-```text
-> learning_mode.exe
-
-[████████████████████░░░░]  ACTIVE
-
-STATUS: CONSTANTLY LEARNING
-```
+Meu objetivo é construir uma base sólida em desenvolvimento de software, automação e tecnologias relacionadas à IA, enquanto desenvolvo projetos que possam fazer parte do meu portfólio profissional.
 
 ---
 
-## 🧠 TECH.STACK
+## ⚡ Tech Stack
+
+### 🐍 Programming Languages
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+
+</p>
+
+### 🛠️ Tools & Environment
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+
+</p>
+
+---
+
+## 🔧 Ferramentas que utilizo
+
+| Tool                   | Utilização                          |
+| ---------------------- | ----------------------------------- |
+| 💻 **VS Code**         | Desenvolvimento e estudos           |
+| 🐙 **GitHub**          | Versionamento e portfólio           |
+| 🔀 **Git**             | Controle de versão                  |
+| 🐍 **Python**          | Automação, lógica e desenvolvimento |
+| 🌐 **HTML / CSS / JS** | Desenvolvimento web                 |
+| ⚙️ **C++**             | Programação e projetos de hardware  |
+
+---
+
+## 🚀 Projetos
 
 <div align="center">
 
-### 💻 Languages
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,cpp&theme=dark" />
-
-<br><br>
-
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-
-</div>
-
----
-
-## ⚙️ TOOLS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
-
----
-
-## 🚀 PROJECTS
+<td width="50%" valign="top">
 
 ### 🧠 Cogniflux
 
-Projeto acadêmico desenvolvido para explorar tecnologia assistiva e atividades cognitivas.
+Projeto desenvolvido como TCC com foco em tecnologia assistiva e atividades cognitivas.
 
-**Tecnologias / conceitos:**
+**Stack**
 
-```text
-Python • Logic • UI • Automation • Hardware • ESP32
-```
+`Python` `ESP32` `UI` `Automação`
 
-🔗 Em desenvolvimento.
+</td>
 
----
+<td width="50%" valign="top">
 
-### 📚 Force Study
+### 🤖 J.A.R.V.I.S
 
-Projeto experimental voltado para organização e acompanhamento de estudos.
+Projeto de estudos envolvendo um assistente virtual desenvolvido em Python.
 
-**Tecnologias:**
+**Stack**
 
-```text
-HTML • CSS • JavaScript • Python
-```
+`Python` `AI` `APIs` `Automation`
 
-🔗 Em desenvolvimento.
+</td>
 
----
+</tr>
 
-### 🔨 MORE PROJECTS LOADING...
+<tr>
 
-```text
-PROJECT_PIPELINE
+<td width="50%" valign="top">
 
-[01] Python Automation       → IN PROGRESS
-[02] Software Project        → PLANNED
-[03] Web Application         → PLANNED
-[04] AI Experiment           → PLANNED
-[05] Open Source Project     → PLANNED
+### 📊 Data & Automation
 
-> new_project.exe
-> status: BUILDING...
-```
+Projetos experimentais voltados para análise de dados, automação e dashboards.
 
----
+**Stack**
 
-## 🎯 CURRENT.MISSION
+`Python` `Excel` `Automation`
 
-```console
-┌──[ EDUARDO@DEVELOPER-SYSTEM ]───────────────────────────────┐
-│                                                             │
-│ $ current_focus                                             │
-│ > Python                                                    │
-│ > Automation                                                │
-│ > Software Development                                      │
-│                                                             │
-│ $ learning                                                  │
-│ > Advanced Python                                           │
-│ > Git & GitHub                                              │
-│ > APIs                                                      │
-│ > Automation                                                │
-│ > Software Architecture                                     │
-│                                                             │
-│ $ objective                                                 │
-│ > Build real projects                                       │
-│ > Improve problem solving                                   │
-│ > Build a strong portfolio                                  │
-│ > Become a better developer                                 │
-│                                                             │
-│ $ status                                                    │
-│ > LEARNING_MODE: ACTIVE                                     │
-│ > BUILD_MODE: ACTIVE                                        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+</td>
 
----
+<td width="50%" valign="top">
 
-## 📊 GITHUB.ANALYTICS
+### 🌐 Web Projects
 
-<div align="center">
+Projetos para praticar desenvolvimento front-end e construção de interfaces.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117"/>
+**Stack**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117"/>
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
-
-## 🌐 CONNECT
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
-</a>
-
-</div>
+> 🚧 Alguns projetos estão em desenvolvimento e serão publicados conforme minha evolução.
 
 ---
 
-<div align="center">
+## 🎯 Objetivos Atuais
 
-<br>
+```bash
+┌──[EDUARDO@GITHUB]─[~]
+│
+├── $ cat current_mission.txt
+│
+├── [01] ███████████████░░░  Python
+├── [02] ████████████░░░░░░  Automation
+├── [03] ██████████░░░░░░░░  Git & GitHub
+├── [04] ████████░░░░░░░░░░  Software Development
+├── [05] ███████░░░░░░░░░░░  APIs
+├── [06] ██████░░░░░░░░░░░░  Data Analysis
+│
+└── $ ./keep_building.sh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0b1117,100:050505&height=120&section=footer"/>
-
-### ⚡ SYSTEM.STATUS
-
-```text
-> ALL SYSTEMS OPERATIONAL
-> DEVELOPER MODE: ACTIVE
-> NEXT OBJECTIVE: BUILD
+> STATUS: LEARNING
+> MODE: BUILD
+> TARGET: SOFTWARE DE
 ```
-
-**Building the future, one commit at a time. ⚡**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00e5ff&style=flat-square"/>
-
-</div>
--
